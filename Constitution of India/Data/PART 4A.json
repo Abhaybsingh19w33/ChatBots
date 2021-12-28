@@ -1,0 +1,29 @@
+{
+    "rules": [
+        {
+            "article no": "51A",
+            "title": "FUNDAMENTAL DUTIES",
+            "date": "",
+            "intent": "",
+            "rule": [
+                "It shall be the duty of every citizen of India to abide by the Constitution and respect its ideals and institutions, the National Flag and the National Anthem",
+                "It shall be the duty of every citizen of India to cherish and follow the noble ideals which inspired our national struggle for freedom",
+                "It shall be the duty of every citizen of India to uphold and protect the sovereignty, unity and integrity of India",
+                "It shall be the duty of every citizen of India to defend the country and render national service when called upon to do so",
+                "It shall be the duty of every citizen of India to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities to renounce practices derogatory to the dignity of women",
+                "It shall be the duty of every citizen of India to value and preserve the rich heritage of our composite culture",
+                "It shall be the duty of every citizen of India to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures",
+                "It shall be the duty of every citizen of India to develop the scientific temper, humanism and the spirit of inquiry and reform",
+                "It shall be the duty of every citizen of India to safeguard public property and to abjure violence",
+                "It shall be the duty of every citizen of India to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement",
+                "It shall be the duty of every citizen of India who is a parent or guardian to provide opportunities for education to his child or, as the case may be, ward between the age of six and fourteen years."
+            ],
+            "penalty": {
+                "0": [],
+                "1": [],
+                "2": [],
+                "4": []
+            }
+        }
+    ]
+}
